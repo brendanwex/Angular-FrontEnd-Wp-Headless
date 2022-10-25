@@ -3,7 +3,14 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  appName: 'Webtronic',
+  apiEndPoint: 'https://webtronic.ie/demos/headless/wp-json/',
+  placeholderImage: 'placeholder.png',
+  themeColor: '#1cb3bc',
+  hasYoast: false,
+  homePage: 7
+
 };
 
 /*

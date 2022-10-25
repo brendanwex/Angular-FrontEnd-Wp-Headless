@@ -1,4 +1,8 @@
-# WpHeadless
+# Sample Frontend for Headless WP
+
+## Config
+
+Change settings in src/environments to point to your WP install.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
